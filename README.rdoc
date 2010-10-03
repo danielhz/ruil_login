@@ -1,6 +1,6 @@
-= uagent
+= ruil_login
 
-
+A login system builded on top of ruil
 
 == Install
 
