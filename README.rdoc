@@ -17,7 +17,7 @@ A login system builded on top of ruil
 
 First download the code from the repository:
 
-    $ git clone git@github.com:danielhz/ruil_login.git
+    $ git clone git://github.com/danielhz/ruil_login.git
 
 This project uses jeweler to build the gem, so you can use this commands:
 
